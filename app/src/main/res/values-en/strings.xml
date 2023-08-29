@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="barraTitulo">Shopping list</string>
+    <string name="botonAgregar">New Purchase</string>
+    <string name="botonAgregarForm">Add</string>
+    <string name="barraForm">New purchase item</string>
+    <string name="botonVolver">Back to list</string>
+</resources>

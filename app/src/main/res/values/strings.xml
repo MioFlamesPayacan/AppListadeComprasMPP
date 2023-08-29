@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaluacion 2 mpp</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="barraTitulo">Lista de Compras</string>
+    <string name="botonAgregar">Nueva Compra</string>
+    <string name="botonAgregarForm">Agregar</string>
+    <string name="barraForm">Nuevo elemento de compra</string>
+    <string name="botonVolver">Volver a la lista</string>
+</resources>
